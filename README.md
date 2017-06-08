@@ -5,7 +5,6 @@ A ReactJS countdown app to Christmas or any other date.
 ## Getting Started
 ### Prerequisites
 - ReactJS
-- Redux
 
 ### Installing
 
